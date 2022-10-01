@@ -18,3 +18,6 @@ geom_point(mapping = aes(x = Cocoa.Percent, y = Rating))
 
 # to save your plot as a png file with chocolate as the file name
 ggsave(“chocolate.png”)
+
+# Pro tip: You want to record and share every step of your analysis, let teammates run your code, and display your visualizations. 
+You can create an R markdown notebook to document your work.
